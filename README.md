@@ -1,39 +1,6 @@
-# Triangle: Back To Home;
+# Orcus : Homecoming
 
-## Small adventure game, created for <a href="https://js13kgames.com">js13kGames</a>
-![triangle](screenshot.png)
+## Small adventure game, created by <a href="https://linktr.ee/Anirudddh">Aniruddha Rajendra Shinde</a>
+!(screenshot.png)
 
-You can play it <a href="https://js13kgames.com/entries/triangle-back-to-home">here</a>
-## Installation
-Install dependencies.
-```
-npm install
-```
-
-Build a compact version in both **release** and **electronapp** folders.
-```
-./build.sh'
-```
-
-### Generating an Electron app
-![triangle](screenshot2.png)
-Enter to the **electronapp** folder.
-```
-cd electronapp'
-```
-
-Install dependencies.
-```
-npm install
-```
-
-Start
-```
-npm start
-```
-
-## Contributors
-
-*Original Author: [vik-13](https://github.com/vik-13)*
-
-*Contributor: [Yutyo](https://github.com/yutyo)*
+You can play it <a href="https://bit.ly/OrcusHomeComing">here</a>
